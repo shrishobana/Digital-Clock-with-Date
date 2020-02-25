@@ -1,0 +1,9 @@
+C:\Users\rshri\source\repos\Clock_Date\Clock_Date\bin\Debug\Clock_Date.exe.config
+C:\Users\rshri\source\repos\Clock_Date\Clock_Date\bin\Debug\Clock_Date.exe
+C:\Users\rshri\source\repos\Clock_Date\Clock_Date\bin\Debug\Clock_Date.pdb
+C:\Users\rshri\source\repos\Clock_Date\Clock_Date\obj\Debug\Clock_Date.csprojAssemblyReference.cache
+C:\Users\rshri\source\repos\Clock_Date\Clock_Date\obj\Debug\Clock_Date.Form1.resources
+C:\Users\rshri\source\repos\Clock_Date\Clock_Date\obj\Debug\Clock_Date.Properties.Resources.resources
+C:\Users\rshri\source\repos\Clock_Date\Clock_Date\obj\Debug\Clock_Date.csproj.GenerateResource.cache
+C:\Users\rshri\source\repos\Clock_Date\Clock_Date\obj\Debug\Clock_Date.exe
+C:\Users\rshri\source\repos\Clock_Date\Clock_Date\obj\Debug\Clock_Date.pdb
